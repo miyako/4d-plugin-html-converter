@@ -270,7 +270,7 @@
 /* Begin PBXProject section */
 		089C1669FE841209C02AAC07 /* Project object */ = {
 			isa = PBXProject;
-			buildConfigurationList = 42D60B430A9DDBC8002ABB42 /* Build configuration list for PBXProject "4D Plugin" */;
+			buildConfigurationList = 42D60B430A9DDBC8002ABB42 /* Build configuration list for PBXProject "HTML Converter" */;
 			compatibilityVersion = "Xcode 2.4";
 			developmentRegion = English;
 			hasScannedForEncodings = 1;
@@ -538,7 +538,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Default;
 		};
-		42D60B430A9DDBC8002ABB42 /* Build configuration list for PBXProject "4D Plugin" */ = {
+		42D60B430A9DDBC8002ABB42 /* Build configuration list for PBXProject "HTML Converter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				42D60B440A9DDBC8002ABB42 /* Development */,

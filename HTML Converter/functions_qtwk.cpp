@@ -1,4 +1,4 @@
-/*
+﻿/*
  *  functions_qtwk.cpp
  *  4D Plugin
  *

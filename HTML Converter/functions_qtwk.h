@@ -1,4 +1,4 @@
-/*
+﻿/*
  *  functions_qtwk.h
  *  4D Plugin
  *
