@@ -126,7 +126,7 @@ void HTML_Convert_to_image(sLONG_PTR *pResult, PackagePtr pParams)
 	if(ParamHtml.getUTF16Length()){
 		
 		CUTF8String htmlPath, html, htmlUrl;
-		ParamHtml.copyUTF8PathString(&htmlPath);
+		ParamHtml.copyPath(&htmlPath);
 		ParamHtml.copyUTF8String(&htmlUrl);
 		
 		if(   (htmlUrl.find((const uint8_t *)"http://") == 0) 
@@ -444,7 +444,7 @@ void HTML_Convert_to_pdf(sLONG_PTR *pResult, PackagePtr pParams)
 				break;						
 
 			case HTML_PDF_OUTLINE_PATH:
-				ParamValues.copyUTF8PathStringAtIndex(&path, i);
+				ParamValues.copyPathAtIndex(&path, i);
 				_wkhtmltopdf_set_object_setting(os, "dumpOutline",(const char *)path.c_str());
 				break;						
 			case HTML_PDF_OUTLINE_XSL_PATH:
@@ -452,11 +452,11 @@ void HTML_Convert_to_pdf(sLONG_PTR *pResult, PackagePtr pParams)
 		//		_wkhtmltopdf_set_object_setting(os, "tocXsl",(const char *)path.c_str());					
 				break;			
 			case HTML_CUSTOM_CSS_PATH:
-				ParamValues.copyUTF8PathStringAtIndex(&path, i);
+				ParamValues.copyPathAtIndex(&path, i);
 				_wkhtmltopdf_set_object_setting(os, "web.userStyleSheet",(const char *)path.c_str());					
 				break;
 			case HTML_COOKIE_JAR_PATH:
-				ParamValues.copyUTF8PathStringAtIndex(&path, i);
+				ParamValues.copyPathAtIndex(&path, i);
 				_wkhtmltopdf_set_object_setting(os, "load.cookieJar",(const char *)path.c_str());						
 				break;
 		}
@@ -468,7 +468,7 @@ void HTML_Convert_to_pdf(sLONG_PTR *pResult, PackagePtr pParams)
 	if(ParamHtml.getUTF16Length()){
 	
 		CUTF8String htmlPath, html, htmlUrl;
-		ParamHtml.copyUTF8PathString(&htmlPath);
+		ParamHtml.copyPath(&htmlPath);
 		ParamHtml.copyUTF8String(&htmlUrl);
 		
 		if(   (htmlUrl.find((const uint8_t *)"http://") == 0) 

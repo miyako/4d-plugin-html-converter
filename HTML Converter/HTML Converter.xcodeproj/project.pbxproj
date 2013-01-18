@@ -35,6 +35,7 @@
 		D16AC3AB147CB499000AA750 /* ARRAY_BOOLEAN.h in Headers */ = {isa = PBXBuildFile; fileRef = D16AC3A9147CB499000AA750 /* ARRAY_BOOLEAN.h */; };
 		D17E47B415EB85B30094460F /* functions_qtwk.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D17E47B215EB85B30094460F /* functions_qtwk.cpp */; };
 		D17E47B515EB85B30094460F /* functions_qtwk.h in Headers */ = {isa = PBXBuildFile; fileRef = D17E47B315EB85B30094460F /* functions_qtwk.h */; };
+		D1923D4B16A9291E00202412 /* pdf.h in Headers */ = {isa = PBXBuildFile; fileRef = D1923D4A16A9291E00202412 /* pdf.h */; };
 		D19271A51353D6F2001CEA07 /* ARRAY_TEXT.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D19271A31353D6F2001CEA07 /* ARRAY_TEXT.cpp */; };
 		D19271A61353D6F2001CEA07 /* ARRAY_TEXT.h in Headers */ = {isa = PBXBuildFile; fileRef = D19271A41353D6F2001CEA07 /* ARRAY_TEXT.h */; };
 		D19271AA1353D771001CEA07 /* ARRAY_LONGINT.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D19271A81353D771001CEA07 /* ARRAY_LONGINT.cpp */; };
@@ -82,6 +83,7 @@
 		D16AC3A9147CB499000AA750 /* ARRAY_BOOLEAN.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ARRAY_BOOLEAN.h; path = Classes/ARRAY_BOOLEAN.h; sourceTree = "<group>"; };
 		D17E47B215EB85B30094460F /* functions_qtwk.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; fileEncoding = 4; path = functions_qtwk.cpp; sourceTree = "<group>"; };
 		D17E47B315EB85B30094460F /* functions_qtwk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = functions_qtwk.h; sourceTree = "<group>"; };
+		D1923D4A16A9291E00202412 /* pdf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = pdf.h; path = include/wkhtmltox/pdf.h; sourceTree = "<group>"; };
 		D19271A31353D6F2001CEA07 /* ARRAY_TEXT.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; fileEncoding = 4; name = ARRAY_TEXT.cpp; path = Classes/ARRAY_TEXT.cpp; sourceTree = "<group>"; };
 		D19271A41353D6F2001CEA07 /* ARRAY_TEXT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ARRAY_TEXT.h; path = Classes/ARRAY_TEXT.h; sourceTree = "<group>"; };
 		D19271A81353D771001CEA07 /* ARRAY_LONGINT.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; fileEncoding = 4; name = ARRAY_LONGINT.cpp; path = Classes/ARRAY_LONGINT.cpp; sourceTree = "<group>"; };
@@ -146,6 +148,7 @@
 		08FB77ADFE841716C02AAC07 /* Source */ = {
 			isa = PBXGroup;
 			children = (
+				D1923D4A16A9291E00202412 /* pdf.h */,
 				D17E47B215EB85B30094460F /* functions_qtwk.cpp */,
 				D17E47B315EB85B30094460F /* functions_qtwk.h */,
 				18B684FE06944F8800CC6A1E /* 4DPlugin.cpp */,
@@ -239,6 +242,7 @@
 				D10DD2EC135FAB2F00319781 /* C_DATE.h in Headers */,
 				D16AC3AB147CB499000AA750 /* ARRAY_BOOLEAN.h in Headers */,
 				D17E47B515EB85B30094460F /* functions_qtwk.h in Headers */,
+				D1923D4B16A9291E00202412 /* pdf.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

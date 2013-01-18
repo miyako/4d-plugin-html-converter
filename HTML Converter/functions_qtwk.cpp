@@ -1,12 +1,3 @@
-﻿/*
- *  functions_qtwk.cpp
- *  4D Plugin
- *
- *  Created by miyako on 2012/08/27.
- *  Copyright 2012 株式会社フォーディー・ジャパン. All rights reserved.
- *
- */
-
 #include "functions_qtwk.h"
 
 void __wkhtmltopdf_init(functionParams *params){
