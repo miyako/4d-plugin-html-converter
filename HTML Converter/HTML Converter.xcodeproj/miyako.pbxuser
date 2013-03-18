@@ -76,18 +76,15 @@
 					PBXFindDataSource_LocationID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 380190297;
-			PBXWorkspaceStateSaveDate = 380190297;
+			PBXPerProjectTemplateStateSaveDate = 385301085;
+			PBXWorkspaceStateSaveDate = 385301085;
 		};
 		perUserProjectItems = {
+			D164175816F73A6800377EA3 /* PBXTextBookmark */ = D164175816F73A6800377EA3 /* PBXTextBookmark */;
 			D17E485515EBA3A60094460F /* PBXTextBookmark */ = D17E485515EBA3A60094460F /* PBXTextBookmark */;
 			D17E487B15EBA5930094460F /* PBXTextBookmark */ = D17E487B15EBA5930094460F /* PBXTextBookmark */;
 			D190E8E616A93D06000A5539 /* PBXTextBookmark */ = D190E8E616A93D06000A5539 /* PBXTextBookmark */;
-			D190E8E816A93D06000A5539 /* PBXTextBookmark */ = D190E8E816A93D06000A5539 /* PBXTextBookmark */;
-			D190E8ED16A93D06000A5539 /* PBXTextBookmark */ = D190E8ED16A93D06000A5539 /* PBXTextBookmark */;
-			D190E8F116A93D06000A5539 /* PBXTextBookmark */ = D190E8F116A93D06000A5539 /* PBXTextBookmark */;
 			D190E90116A93E64000A5539 /* PBXTextBookmark */ = D190E90116A93E64000A5539 /* PBXTextBookmark */;
-			D190E90216A93E64000A5539 /* PBXTextBookmark */ = D190E90216A93E64000A5539 /* PBXTextBookmark */;
 			D1923D1616A926B300202412 /* PBXTextBookmark */ = D1923D1616A926B300202412 /* PBXTextBookmark */;
 			D1923D1716A926B300202412 /* PBXTextBookmark */ = D1923D1716A926B300202412 /* PBXTextBookmark */;
 			D1923D5116A9298700202412 /* PBXTextBookmark */ = D1923D5116A9298700202412 /* PBXTextBookmark */;
@@ -142,6 +139,16 @@
 			sepNavVisRange = "{209, 1579}";
 		};
 	};
+	D164175816F73A6800377EA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D19271A31353D6F2001CEA07 /* ARRAY_TEXT.cpp */;
+		name = "ARRAY_TEXT.cpp: 202";
+		rLen = 0;
+		rLoc = 5512;
+		rType = 0;
+		vrLen = 888;
+		vrLoc = 0;
+	};
 	D17E47B215EB85B30094460F /* functions_qtwk.cpp */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {635, 4147}}";
@@ -187,55 +194,6 @@
 		vrLen = 1152;
 		vrLoc = 4;
 	};
-	D190E8E816A93D06000A5539 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D19271A31353D6F2001CEA07 /* ARRAY_TEXT.cpp */;
-		name = "ARRAY_TEXT.cpp: 206";
-		rLen = 0;
-		rLoc = 5512;
-		rType = 0;
-		vrLen = 888;
-		vrLoc = 0;
-	};
-	D190E8ED16A93D06000A5539 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D190E8EE16A93D06000A5539 /* ARRAY_TEXT.h */;
-		name = "ARRAY_TEXT.h: 53";
-		rLen = 22;
-		rLoc = 1472;
-		rType = 0;
-		vrLen = 1598;
-		vrLoc = 159;
-	};
-	D190E8EE16A93D06000A5539 /* ARRAY_TEXT.h */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = sourcecode.c.h;
-		name = ARRAY_TEXT.h;
-		path = "/Users/miyako/Downloads/4d-plugin-html-converter-master/HTML Converter/4D Plugin API/Classes/ARRAY_TEXT.h";
-		sourceTree = "<absolute>";
-	};
-	D190E8F116A93D06000A5539 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D190E8F216A93D06000A5539 /* ARRAY_TEXT.cpp */;
-		name = "ARRAY_TEXT.cpp: 218";
-		rLen = 0;
-		rLoc = 5593;
-		rType = 0;
-		vrLen = 1098;
-		vrLoc = 5496;
-	};
-	D190E8F216A93D06000A5539 /* ARRAY_TEXT.cpp */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = sourcecode.cpp.cpp;
-		name = ARRAY_TEXT.cpp;
-		path = "/Users/miyako/Downloads/4d-plugin-html-converter-master/HTML Converter/4D Plugin API/Classes/ARRAY_TEXT.cpp";
-		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {803, 3939}}";
-			sepNavSelRange = "{5593, 0}";
-			sepNavVisRange = "{5478, 1118}";
-		};
-	};
 	D190E90116A93E64000A5539 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = D19271A31353D6F2001CEA07 /* ARRAY_TEXT.cpp */;
@@ -245,28 +203,6 @@
 		rType = 0;
 		vrLen = 888;
 		vrLoc = 0;
-	};
-	D190E90216A93E64000A5539 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D190E90316A93E64000A5539 /* ARRAY_TEXT.cpp */;
-		name = "ARRAY_TEXT.cpp: 218";
-		rLen = 0;
-		rLoc = 5593;
-		rType = 0;
-		vrLen = 1118;
-		vrLoc = 5478;
-	};
-	D190E90316A93E64000A5539 /* ARRAY_TEXT.cpp */ = {
-		isa = PBXFileReference;
-		name = ARRAY_TEXT.cpp;
-		path = "/Users/miyako/Downloads/4d-plugin-html-converter-master/HTML Converter/4D Plugin API/Classes/ARRAY_TEXT.cpp";
-		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {803, 3939}}";
-			sepNavSelRange = "{5593, 0}";
-			sepNavVisRange = "{5478, 1118}";
-			sepNavWindowFrame = "{{202, 13}, {730, 745}}";
-		};
 	};
 	D1923D1616A926B300202412 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -318,7 +254,7 @@
 	};
 	D19271A31353D6F2001CEA07 /* ARRAY_TEXT.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1034, 4134}}";
+			sepNavIntBoundsRect = "{{0, 0}, {985, 4277}}";
 			sepNavSelRange = "{5512, 0}";
 			sepNavVisRange = "{0, 888}";
 			sepNavWindowFrame = "{{455, 119}, {1243, 759}}";
