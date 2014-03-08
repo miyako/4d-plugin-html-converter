@@ -301,7 +301,7 @@
 							<real>201</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>280 188 1097 690 0 0 1440 878 </string>
+						<string>343 100 1097 690 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -329,7 +329,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>D164175816F73A6800377EA3</string>
+										<string>D1077BAE18434712004ABB92</string>
 										<key>history</key>
 										<array>
 											<string>D17E485515EBA3A60094460F</string>
@@ -339,7 +339,7 @@
 											<string>D1923D5116A9298700202412</string>
 											<string>D1923D5216A9298700202412</string>
 											<string>D190E8E616A93D06000A5539</string>
-											<string>D190E90116A93E64000A5539</string>
+											<string>D1DD72D61786AF780061C6D6</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -353,7 +353,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {889, 641}}</string>
 								<key>RubberWindowFrame</key>
-								<string>280 188 1097 690 0 0 1440 878 </string>
+								<string>343 100 1097 690 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -366,14 +366,14 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20506471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>詳細</string>
+								<string>Detail</string>
 							</dict>
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
 								<string>{{0, 646}, {889, 3}}</string>
 								<key>RubberWindowFrame</key>
-								<string>280 188 1097 690 0 0 1440 878 </string>
+								<string>343 100 1097 690 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -397,9 +397,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>D164175916F73A6800377EA3</string>
+				<string>D1077BAF18434712004ABB92</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>D164175A16F73A6800377EA3</string>
+				<string>D1077BB018434712004ABB92</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -541,7 +541,7 @@
 		<string>/Users/miyako/github-miyako/4d-plugin-html-converter/HTML Converter/HTML Converter.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>280 188 1097 690 0 0 1440 878 </string>
+	<string>343 100 1097 690 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -584,7 +584,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>XCMainBuildResultsModuleGUID</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>ビルド結果</string>
+								<string>Build Results</string>
 								<key>XCBuildResultsTrigger_Collapse</key>
 								<integer>1021</integer>
 								<key>XCBuildResultsTrigger_Open</key>
@@ -618,7 +618,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>D1D0237115EB82B600C9027C</string>
-				<string>D164175B16F73A6800377EA3</string>
+				<string>D1077BB118434712004ABB92</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
