@@ -3,6 +3,4 @@
 
 This is a cross platform plugin to convert HTML to PDF, JPG, PNG, BMP or SVG using the ​wkhtmltopdf library.
 
-**deprecated**
-
-please use https://github.com/miyako/4d-plugin-HTMLTOX
+**Deprecated!** Use [4d-component-wkhtmltopdf](https://github.com/miyako/4d-component-wkhtmltopdf/) instead.
